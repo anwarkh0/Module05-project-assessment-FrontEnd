@@ -1,0 +1,13 @@
+.article{
+    width: 286px;
+    height: 416px;
+    border: 0px solid black;
+    box-shadow: 1px 1px 4px gray;
+}
+.img{
+    width: 100px;
+}
+.section{
+    display: flex;
+    gap: 20px;
+}
